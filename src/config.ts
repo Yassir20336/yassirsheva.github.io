@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Yassir Sheva",
+  name: "Yassir Abd EL-Samad",
   title: "Senior Odoo ERP Developer",
   description: "Senior Odoo ERP Developer specializing in Python, Odoo, PostgreSQL, API Integration and ERP Solutions.",
   accentColor: "#2563EB",
@@ -10,14 +10,14 @@ export const siteConfig = {
     github: "https://github.com/Yassir20336",
   },
   aboutMe: `
-I am a Senior Odoo Techno-Functional Developer with over four years of professional experience delivering enterprise ERP solutions using Odoo.
+  I am a Senior Odoo Techno-Functional Developer with over four years of professional experience delivering enterprise ERP solutions using Odoo.
 
-My expertise covers full-cycle Odoo implementation, custom module development, API integrations, business process automation, and system architecture.
+  My expertise covers full-cycle Odoo implementation, custom module development, API integrations, business process automation, and system architecture.
 
-Throughout my career, I have successfully delivered projects for clients across Saudi Arabia, Sudan, and Egypt in industries including retail, healthcare, construction, manufacturing, and government.
+  Throughout my career, I have successfully delivered projects for clients across Saudi Arabia, Sudan, and Egypt in industries including retail, healthcare, construction, manufacturing, and government.
 
-I enjoy transforming complex business requirements into scalable, maintainable, and high-performance ERP solutions while collaborating with cross-functional teams to deliver measurable business value.
-`,
+  I enjoy transforming complex business requirements into scalable, maintainable, and high-performance ERP solutions while collaborating with cross-functional teams to deliver measurable business value.
+  `,
 skills: [
     "Python",
     "Odoo 8 - 19",
@@ -169,24 +169,24 @@ skills: [
 ],
   education: [
     {
-      school: "University Name",
+      school: "University of Science & Technology – Sudan",
       degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
-      achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
+      dateRange: "2013 - 2017",
+      // achievements: [
+      //   "Graduated Magna Cum Laude with 3.8 GPA",
+      //   "Dean's List all semesters",
+      //   "President of Computer Science Club",
+      // ],
     },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
-    },
+    // {
+    //   school: "Online Platform",
+    //   degree: "Full Stack Development Certificate",
+    //   dateRange: "2019",
+    //   achievements: [
+    //     "Completed 500+ hours of coursework",
+    //     "Built 10+ portfolio projects",
+    //     "Specialized in React and Node.js",
+    //   ],
+    // },
   ],
 };
