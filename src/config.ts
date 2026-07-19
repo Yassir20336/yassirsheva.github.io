@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Yassir Abd EL-Samad",
-  title: "Senior Odoo ERP Developer",
-  description: "Senior Odoo ERP Developer specializing in Python, Odoo, PostgreSQL, API Integration and ERP Solutions.",
+  title: "Senior Odoo Developer",
+  description: "Senior Odoo Developer specializing in scalable ERP solutions, Python development, Odoo customization, REST APIs, and business process automation.",
   accentColor: "#2563EB",
   social: {
     email: "yassir_samad@yahoo.com",
@@ -10,17 +10,17 @@ export const siteConfig = {
     github: "https://github.com/Yassir20336",
   },
   aboutMe: `
-  I am a Senior Odoo Techno-Functional Developer with over four years of professional experience delivering enterprise ERP solutions using Odoo.
+I am a Senior Odoo Developer with over six years of experience designing, developing, and implementing enterprise ERP solutions.
 
-  My expertise covers full-cycle Odoo implementation, custom module development, API integrations, business process automation, and system architecture.
+My expertise includes custom Odoo development, module architecture, REST API integrations, PostgreSQL optimization, and business process automation.
 
-  Throughout my career, I have successfully delivered projects for clients across Saudi Arabia, Sudan, and Egypt in industries including retail, healthcare, construction, manufacturing, and government.
+I have successfully delivered ERP projects across Saudi Arabia, Sudan, and Egypt for clients in retail, healthcare, construction, manufacturing, and government sectors.
 
-  I enjoy transforming complex business requirements into scalable, maintainable, and high-performance ERP solutions while collaborating with cross-functional teams to deliver measurable business value.
-  `,
+I enjoy building scalable, maintainable, and high-performance business applications that help organizations improve efficiency and accelerate digital transformation.
+`,
 skills: [
     "Python",
-    "Odoo 8 - 19",
+    "Odoo From v8 To v19",
     "PostgreSQL",
     "XML",
     "OWL",
