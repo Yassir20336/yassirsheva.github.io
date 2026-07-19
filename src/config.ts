@@ -168,25 +168,38 @@ skills: [
   }
 ],
   education: [
-    {
-      school: "University of Science & Technology – Sudan",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2013 - 2017",
-      // achievements: [
-      //   "Graduated Magna Cum Laude with 3.8 GPA",
-      //   "Dean's List all semesters",
-      //   "President of Computer Science Club",
-      // ],
-    },
-    // {
-    //   school: "Online Platform",
-    //   degree: "Full Stack Development Certificate",
-    //   dateRange: "2019",
-    //   achievements: [
-    //     "Completed 500+ hours of coursework",
-    //     "Built 10+ portfolio projects",
-    //     "Specialized in React and Node.js",
-    //   ],
-    // },
+  {
+    school: "University of Science & Technology – Sudan",
+    degree: "Bachelor of Science (Honours) in Computer Science",
+    dateRange: "2013 - 2017",
+    achievements: [
+      "Bachelor's Degree (Honours).",
+      "Specialized in Software Engineering and Database Systems.",
+      "Established a solid foundation in software development and computer science principles.",
+    ],
+  },
+  {
+  school: "LinkedIn Learning",
+  degree: "Creating API Documentation",
+  dateRange: "2025",
+  achievements: [
+    "Certificate of Completion.",
+    "Mastered REST API documentation principles.",
+    "Applied industry best practices for API documentation.",
   ],
+},
+{
+  school: "LinkedIn Learning",
+  degree: "AWS Certified Cloud Practitioner (CLF-C02) Cert Prep: Cloud Concepts",
+  dateRange: "2024",
+  achievements: [
+    "Certificate of Completion.",
+    "Built a solid understanding of AWS Cloud fundamentals.",
+    "Prepared for the AWS Certified Cloud Practitioner (CLF-C02) exam.",
+  ],
+},
+  ],
+
+
+
 };
